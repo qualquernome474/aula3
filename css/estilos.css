@@ -103,6 +103,7 @@ body {
     grid-template-columns: repeat(3, 240px);
     justify-content: center;
   } 
+ }   
   .portfolio figure{
     text-align: center;
   }
