@@ -86,6 +86,7 @@ body {
     padding: 2em;
   }
   .portfolio h2 {
+    margin:10px!important;
     font-family: 'Roboto Slab', serif; 
     text-align: center;
   }
