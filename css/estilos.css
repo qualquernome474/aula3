@@ -116,7 +116,6 @@ body {
   }
 figure:hover{
     text-decoration: underline;
-    background-color: teal;
     transform: scale(1.2);
     transition: 0.7s;
   }
